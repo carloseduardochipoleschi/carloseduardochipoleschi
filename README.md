@@ -1,7 +1,7 @@
-### Olá, meu nome é Carlos Eduardo Chipoleschi Rodrigues 👋
+## Olá, meu nome é Carlos Eduardo Chipoleschi Rodrigues 👋
 Sou apaixonado por tecnologia, e no momento estou estudando para poder estar aplicando-as em desenvolvimento front-end.
 
-### 🌎 Onde me encontrar
+## 🌎 Onde me encontrar
 
 <div>
     <a href="https://www.linkedin.com/in/carlos-eduardo-chipoleschi-rodrigues-aa39b037/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
