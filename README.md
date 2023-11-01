@@ -20,3 +20,7 @@ Sou apaixonado por tecnologia, e no momento estou estudando para poder estar apl
 ![carloseduardochipoleschi GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardochipoleschi&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardochipoleschi)](https://github.com/anuraghazra/github-readme-stats)
+
+## IDE
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
