@@ -12,6 +12,7 @@ Sou apaixonado por tecnologia, e no momento estou estudando para poder estar apl
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![carloseduardochipoleschi GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardochipoleschi&show_icons=true&theme=dracula)
 
