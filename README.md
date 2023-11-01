@@ -3,7 +3,10 @@ Sou apaixonado por tecnologia, e no momento estou estudando para poder estar apl
 
 ### 🌎 Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+<div>
+    <a href="https://www.linkedin.com/in/carlos-eduardo-chipoleschi-rodrigues-aa39b037/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://instagram.com/carlos_eduardo_chipoleschi_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ## 💻Tecnologias que estou aprendendo
 
