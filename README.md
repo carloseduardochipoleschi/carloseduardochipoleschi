@@ -1,4 +1,5 @@
 ### Olá, meu nome é Carlos Eduardo Chipoleschi Rodrigues 👋
+Sou apaixonado por tecnologia, e no momento estou estudando algumas tecnologias para poder estar aplicando em desenvolvimento front-end.
 
 ### 🌎 Onde me encontrar
 
