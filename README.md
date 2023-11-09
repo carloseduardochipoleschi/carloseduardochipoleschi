@@ -1,5 +1,5 @@
 ## Olá, meu nome é Carlos Eduardo Chipoleschi Rodrigues 👋
-É um prazer compartilhar com você minha paixão pela tecnologia e meu entusiasmo pelo mundo do desenvolvimento front-end. Desde cedo, fui atraído pelo universo da programação e do design, e essa paixão me impulsionou a aprender e crescer continuamente nesse campo emocionante.
+É um prazer compartilhar com vocês minha paixão pela tecnologia e meu entusiasmo pelo mundo do desenvolvimento front-end. Desde cedo, fui atraído pelo universo da programação e do design, e essa paixão me impulsionou a aprender e crescer continuamente nesse campo emocionante.
 Atualmente, estou dedicando meu tempo e energia ao estudo e aprimoramento das linguagens HTML, CSS e JavaScript, que são a base do desenvolvimento front-end..
 
 
