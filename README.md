@@ -2,13 +2,6 @@
 É um prazer compartilhar com vocês minha paixão pela tecnologia e meu entusiasmo pelo mundo do desenvolvimento front-end. Desde cedo, fui atraído pelo universo da programação e do design, e essa paixão me impulsionou a aprender e crescer continuamente nesse campo emocionante.
 Atualmente, estou dedicando meu tempo e energia ao estudo e aprimoramento das linguagens HTML, CSS e JavaScript, que são a base do desenvolvimento front-end..
 
-
-## 🌎 Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-chipoleschi-rodrigues-aa39b037/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@cechrodrigues@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carlos_eduardo_chipoleschi_)
-
 ## 💻Tecnologias que estou aprendendo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
